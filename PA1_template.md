@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-##1.0 Introduction
+## 1.0 Introduction
 This assignment makes use of data from a personal activity monitoring device. 
 This device collects data at 5 minute intervals through out the day. The data 
 consists of two months of data from an anonymous individual collected during 
